@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1526072580 source:f:\job\word search\main.cpp
+	<stdio.h>
+	"include.h"
+
+1526068985 source:f:\job\word search\src\ini.cpp
+	"include.h"
+	<stdio.h>
+	<windows.h>
+
+1526114108 f:\job\word search\include\ini.h
+	<stdbool.h>
+
+1526115339 f:\job\word search\include\txt.h
+
+1526113115 source:f:\job\word search\src\txt.cpp
+	"include.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+
+1526114142 f:\job\word search\include\build.h
+
+1526113226 source:f:\job\word search\src\build.cpp
+	"include.h"
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1526113394 f:\job\word search\include\include.h
+	"Txt.h"
+	"Ini.h"
+	"Build.h"
+
+1526072580 source:f:\job\word search\main.c
+	<stdio.h>
+	"include.h"
+
+1526114347 source:f:\job\word search\src\build.c
+	"include.h"
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1526113766 source:f:\job\word search\src\ini.c
+	"include.h"
+	<stdio.h>
+	<windows.h>
+
+1526113704 source:f:\job\word search\src\txt.c
+	"include.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+
+1526117198 source:f:\job\word search\program\main.c
+	<stdio.h>
+	"include.h"
+
+1526113394 f:\job\word search\program\include\include.h
+	"Txt.h"
+	"Ini.h"
+	"Build.h"
+
+1526115339 f:\job\word search\program\include\txt.h
+
+1526114108 f:\job\word search\program\include\ini.h
+	<stdbool.h>
+
+1526115479 f:\job\word search\program\include\build.h
+
+1526117323 source:f:\job\word search\program\src\build.c
+	"include.h"
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1526115908 source:f:\job\word search\program\src\ini.c
+	"include.h"
+	<stdio.h>
+	<windows.h>
+
+1526115912 source:f:\job\word search\program\src\txt.c
+	"include.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+
+1526130836 source:f:\github\word search\program\main.c
+	<stdio.h>
+	"include.h"
+
+1526130864 f:\github\word search\program\include\include.h
+	"Txt.h"
+	"Ini.h"
+	"Build.h"
+
+1526130871 f:\github\word search\program\include\txt.h
+
+1526130887 f:\github\word search\program\include\ini.h
+	<stdbool.h>
+
+1526130878 f:\github\word search\program\include\build.h
+
+1526130857 source:f:\github\word search\program\src\build.c
+	"include.h"
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1526130843 source:f:\github\word search\program\src\ini.c
+	"include.h"
+	<stdio.h>
+	<windows.h>
+
+1526130849 source:f:\github\word search\program\src\txt.c
+	"include.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+

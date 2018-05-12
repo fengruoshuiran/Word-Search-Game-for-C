@@ -1,0 +1,25 @@
+*********************************
+*                               *
+*    Welcome to Word Search     *
+*                               *
+*********************************
+
+Words may like this:
+. . . . . . h o r i z o n t a l l y .
+. v . d . . . . . . . . . . . . . . .
+. e . . i . . . . . . . . . . . . . .
+. r . . . a . . . . . . . . . . . . .
+. t . . . . g . . . . . . . . . . . .
+. i . . . . . o . . . . . . . . . . .
+. c . . . . . . n . . . . . . . . . .
+. a . . . . . . . a . . . . . . . . .
+. l . . . . . . . . l . . . . . . . .
+. l . . . . . . . . . l . . . . . . .
+. y . . . . . . . . . . y . . . . . .
+. . . . . . . . . . . . . . . . . . .
+
+Within a given time, you are required to find all the words!
+
+
+Now,
+Press Enter to start game£º
